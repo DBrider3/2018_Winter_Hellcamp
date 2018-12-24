@@ -81,6 +81,18 @@
 
 
 
+6. Windows Tutorial 
+
+```
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/
+```
+
+윈도우 실습을 위한 기초 지식을 위해 필요 
+
+
+
 ### 주제 설명
 
 
