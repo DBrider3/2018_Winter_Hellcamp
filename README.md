@@ -104,4 +104,4 @@ https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-q
 ### 제출 관련
 
 - e-mail : pwnwiz@gmail.com
-- due date : 2019.11.14.
+- due date : 2019.1.14.
